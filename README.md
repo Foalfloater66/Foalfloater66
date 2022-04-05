@@ -2,5 +2,5 @@
 - 🎮 I spend my free time gaming, drawing and coding
 - 🔭 I'm currently working on [modus](https://github.com/modus-continens/modus.git), a Dockerfile alternative
 - 🌱 I'm currently learning Rust and working on creating small but useful programs 
--  ⚡ I love creative ways to create and implement clean and organised code!
+-  ⚡ I love creative ways to create and implement clean and organised code! That includes finding and exploiting vulnerabilities (in an ethical way 😉)
 - 📫 You can contact me at [morgane.ohlig@gmail.com](mailto:morgane.ohlig@gmail.com)
