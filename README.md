@@ -1,5 +1,6 @@
 - 👋 Hi there, I'm Morgane, a 2nd year Computer Science undergraduate student at UCL
 - 🎮 I spend my free time gaming, drawing and coding
+- 🖌 Currently the UCL Graphic Novels & Comics Society President
 - 🔭 I'm currently working on [modus](https://github.com/modus-continens/modus.git), a Dockerfile alternative
 - 🌱 I'm currently learning Rust and working on creating small but useful programs 
 -  ⚡ I love creative ways to create and implement clean and organised code! That includes finding and exploiting vulnerabilities (in an ethical way 😉)
