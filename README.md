@@ -1,7 +1,16 @@
-- 👋 Hi there, I'm Morgane, a 2nd year Computer Science undergraduate student at UCL
-- 🎮 I spend my free time gaming, drawing and coding
-- 🖌 Currently the UCL Graphic Novels & Comics Society President
-- 🔭 I'm currently working on [modus](https://github.com/modus-continens/modus.git), a Dockerfile alternative
-- 🌱 I'm currently learning Rust and working on creating small but useful programs 
--  ⚡ I love creative ways to create and implement clean and organised code! That includes finding and exploiting vulnerabilities (in an ethical way 😉)
-- 📫 You can contact me at [morgane.ohlig@gmail.com](mailto:morgane.ohlig@gmail.com)
+# Gruezi!
+My name is Morgane, and I'm currently pursuing an MEng degree in Computer Science at University College London. Although most of my days consist of furious typing, I also enjoy implementing full-stack applications and bizarre algorithms!
+
+I find repetitive mathematical patterns and cell division so beautiful. Cancer, not so much.
+
+| Academic Interests | Other Interests |
+| ------------------ | --------------- |
+| Theoretical Artificial Intelligence | Drawing on [paper](https://www.artstation.com/arlochessbury) |
+| Neural Networks | Playing hack-and-slash videogames | 
+| Calculus and Linear Algebra | Problem-solving hackathons | 
+| Cybersecurity | Terminal-based working environments |
+| Turing Machines and Computability | Reading and inventing apocalyptic narratives | 
+| Operating Systems and Computer Architecture | Watching (but not playing) football |
+
+
+Feel free to contact me [here](mailto:morgane.ohlig@gmail.com).
