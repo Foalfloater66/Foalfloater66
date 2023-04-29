@@ -1,16 +1,16 @@
 # Gruezi!
-My name is Morgane, and I'm currently pursuing an MEng degree in Computer Science at University College London. Although most of my days consist of furious typing, I also enjoy implementing full-stack applications and bizarre algorithms!
+Did you know that the Internet Protocol is so expansive that it can even be run over Avian Carriers?
 
-I find repetitive mathematical patterns and cell division so beautiful. Cancer, not so much.
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Taube_vor_Sche%C3%9Flitz_%28cropped%29.JPG/440px-Taube_vor_Sche%C3%9Flitz_%28cropped%29.JPG" width="150"></p>
+<p align="center">
+<i>An Avian Carrier as described in <a href="https://datatracker.ietf.org/doc/html/rfc1149">RFC 1149</a>.</i> </p>
 
-| Academic Interests | Other Interests |
-| ------------------ | --------------- |
-| Theoretical Artificial Intelligence | Drawing on [paper](https://www.artstation.com/arlochessbury) |
-| Neural Networks | Playing hack-and-slash videogames | 
-| Calculus and Linear Algebra | Problem-solving hackathons | 
-| Cybersecurity | Terminal-based working environments |
-| Turing Machines and Computability | Reading and inventing apocalyptic narratives | 
-| Operating Systems and Computer Architecture | Watching (but not playing) football |
-
-
-Feel free to contact me [here](mailto:morgane.ohlig@gmail.com).
+> "Multiple types of service can be provided with a prioritized pecking
+   order.  An additional property is built-in worm detection and
+   eradication.  Because IP only guarantees best effort delivery, loss
+   of a carrier can be tolerated.  With time, the carriers are self-regenerating.  While broadcasting is not specified, storms can cause
+   data loss.  There is persistent delivery retry, until the carrier
+   drops.  Audit trails are automatically generated, and can often be
+   found on logs and cable trays."
+    - RFC 1149, Discussion
